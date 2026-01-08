@@ -1,0 +1,28 @@
+# Ignore temporary files and backups
+*.log
+*.tmp
+*.bak
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific folders
+.vscode/
+.idea/
+
+# Node or Python environments (if you ever script anything)
+node_modules/
+env/
+venv/
+__pycache__/
+
+# Leanpub build artifacts (if you download builds)
+*.epub
+*.mobi
+*.pdf
+
+# Personal notes
+notes/
+drafts/
